@@ -81,7 +81,7 @@ i.ks-tabbar-icon-4 {
 .ks-carousel-slider {
   font-size: 25px;
   font-weight: 300;
-  background-image: url('../img/Mobile Portrait 7.png');
+  background-image: url('../img/mountains.png');
   background-size: 100%;
 }
 .ks-demo-slider .slider-slide,
@@ -98,7 +98,7 @@ i.ks-tabbar-icon-4 {
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
-  padding: 40px 0 0 0;
+  padding: 20px 0 0 0;
 }
 .ks-carousel-slider .slider-slide {
   box-sizing: border-box;

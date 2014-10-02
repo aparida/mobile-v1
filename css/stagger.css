@@ -1,0 +1,107 @@
+/* Stagger interval */
+._1 {
+  -webkit-animation-delay: 300ms;
+  -moz-animation-delay: 300ms;
+  -ms-animation-delay: 300ms;
+  -o-animation-delay: 300ms;
+  animation-delay: 300ms;
+}
+._2 {
+  -webkit-animation-delay: 600ms;
+  -moz-animation-delay: 600ms;
+  -ms-animation-delay: 600ms;
+  -o-animation-delay: 600ms;
+  animation-delay: 600ms;
+}
+._3 {
+  -webkit-animation-delay: 900ms;
+  -moz-animation-delay: 900ms;
+  -ms-animation-delay: 900ms;
+  -o-animation-delay: 900ms;
+  animation-delay: 900ms;
+}
+._4 {
+  -webkit-animation-delay: 1200ms;
+  -moz-animation-delay: 1200ms;
+  -ms-animation-delay: 1200ms;
+  -o-animation-delay: 1200ms;
+  animation-delay: 1200ms;
+}
+._5 {
+  -webkit-animation-delay: 1500ms;
+  -moz-animation-delay: 1500ms;
+  -ms-animation-delay: 1500ms;
+  -o-animation-delay: 1500ms;
+  animation-delay: 1500ms;
+}
+._6 {
+  -webkit-animation-delay: 1800ms;
+  -moz-animation-delay: 1800ms;
+  -ms-animation-delay: 1800ms;
+  -o-animation-delay: 1800ms;
+  animation-delay: 1800ms;
+}
+._7 {
+  -webkit-animation-delay: 2100ms;
+  -moz-animation-delay: 2100ms;
+  -ms-animation-delay: 2100ms;
+  -o-animation-delay: 2100ms;
+  animation-delay: 2100ms;
+}
+._8 {
+  -webkit-animation-delay: 2400ms;
+  -moz-animation-delay: 2400ms;
+  -ms-animation-delay: 2400ms;
+  -o-animation-delay: 2400ms;
+  animation-delay: 2400ms;
+}
+._9 {
+  -webkit-animation-delay: 2700ms;
+  -moz-animation-delay: 2700ms;
+  -ms-animation-delay: 2700ms;
+  -o-animation-delay: 2700ms;
+  animation-delay: 2700ms;
+}
+._10 {
+  -webkit-animation-delay: 3000ms;
+  -moz-animation-delay: 3000ms;
+  -ms-animation-delay: 3000ms;
+  -o-animation-delay: 3000ms;
+  animation-delay: 3000ms;
+}
+._11 {
+  -webkit-animation-delay: 3300ms;
+  -moz-animation-delay: 3300ms;
+  -ms-animation-delay: 3300ms;
+  -o-animation-delay: 3300ms;
+  animation-delay: 3300ms;
+}
+._12 {
+  -webkit-animation-delay: 3600ms;
+  -moz-animation-delay: 3600ms;
+  -ms-animation-delay: 3600ms;
+  -o-animation-delay: 3600ms;
+  animation-delay: 3600ms;
+}
+._13 {
+  -webkit-animation-delay: 3900ms;
+  -moz-animation-delay: 3900ms;
+  -ms-animation-delay: 3900ms;
+  -o-animation-delay: 3900ms;
+  animation-delay: 3900ms;
+}
+._14 {
+  -webkit-animation-delay: 4200ms;
+  -moz-animation-delay: 4200ms;
+  -ms-animation-delay: 4200ms;
+  -o-animation-delay: 4200ms;
+  animation-delay: 4200ms;
+}
+._15 {
+  -webkit-animation-delay: 4500ms;
+  -moz-animation-delay: 4500ms;
+  -ms-animation-delay: 4500ms;
+  -o-animation-delay: 4500ms;
+  animation-delay: 4500ms;
+}
+/* You can also add more classes if you need more than 10 */
