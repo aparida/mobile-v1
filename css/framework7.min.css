@@ -2924,9 +2924,9 @@ html.with-statusbar-overlay .popup.tablet-fullscreen {
   /*padding: 8px;*/
   margin-left: -25px;
   margin-top: -25px;
-  background: #EFEFF4;
+  background: rgba(0, 0, 0, 0.8);
   z-index: 11000;
-  border-radius: 8px;
+  border-radius: 5px;
 }
 .preloader-indicator-modal .preloader {
   display: block;
@@ -3346,7 +3346,7 @@ html.with-statusbar-overlay body .panel {
 
 .spinner svg path,
 .spinner svg rect{
-      fill: #33C2A2;
+      fill: #eee;
 }
 
 */
