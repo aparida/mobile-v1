@@ -30,7 +30,7 @@ $(document).on('ajaxStart', function () {
     myApp.showIndicator();
 });
 $(document).on('ajaxComplete', function () {
-    myApp.hideIndicator();
+    // myApp.hideIndicator();
 });
 
 mainView.goBack();
